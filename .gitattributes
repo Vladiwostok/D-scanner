@@ -1,1 +1,2 @@
 tests/it/autofix_ide/source_autofix.d  text eol=lf
+src/dscanner/analysis/lambda_return_check.d text eol=lf
